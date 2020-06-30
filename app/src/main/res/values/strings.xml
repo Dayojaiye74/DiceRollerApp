@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Dice Roller</string>
+    <string name="ImageDiceRoller">image_dice</string>
+    <string name="imageDesc">image_desc</string>
+</resources>

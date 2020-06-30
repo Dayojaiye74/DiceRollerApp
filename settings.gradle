@@ -1,0 +1,2 @@
+rootProject.name='Kotlin Dice Roller'
+include ':app'
